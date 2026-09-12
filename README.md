@@ -18,3 +18,31 @@ A modern and responsive landing page designed for a professional cricket player.
 - HTML5
 - CSS3
 - JavaScript
+
+
+
+# Personal Portfolio Website
+
+A responsive and modern personal portfolio website designed to showcase my **skills, projects, achievements, and professional profile**.
+
+## Features
+
+* 🏠 Home section with personal introduction
+* 👨‍💻 About section
+* 🛠️ Skills and technologies
+* 📂 Projects showcase
+* 🏆 Achievements
+* 📱 Responsive design
+* ✨ Smooth navigation and hover effects
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## Purpose
+
+This portfolio was created to build my online presence and provide a simple way for recruiters, developers, and others to learn about my technical skills and projects.
+
+
+
